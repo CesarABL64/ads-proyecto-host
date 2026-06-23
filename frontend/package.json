@@ -1,9 +1,3 @@
-// ============ PROMPT ============
-// Define el proyecto Vite + React 18 + TypeScript del frontend EPiC Playground
-// con Tailwind CSS v3 para estilos utilitarios, scripts dev/build/preview/typecheck,
-// y dependencias tipadas de React más plugins de PostCSS y autoprefixer.
-// ======== FIN DEL PROMPT ========
-
 {
   "name": "epic-playground-editor",
   "private": true,
